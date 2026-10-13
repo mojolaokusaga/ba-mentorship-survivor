@@ -16,17 +16,6 @@ This browser-based scoreboard tracks points earned during **Mentorship Survivor:
 - Placement bonuses: **+5 for first**, **+3 for second**, and **+1 for third**
 - Browser-based score saving, CSV export, and JSON backup/restore
 
-## Run locally
-
-Download or clone the repository and open `index.html` in a modern browser. No installation or build step is required.
-
-## Publish with GitHub Pages
-
-1. Open the repository's **Settings → Pages**.
-2. Under **Build and deployment**, choose **Deploy from a branch**.
-3. Select the `main` branch and `/ (root)` folder, then save.
-4. Wait for the published website link to appear.
-
 ## How to use
 
 1. Enter your mentorship group names.
@@ -51,7 +40,5 @@ ba-mentorship-survivor/
 ├── script.js    # Scoring and browser persistence
 └── README.md    # Documentation
 ```
-
-## Credits
 
 Created for the **2026–2027 Bauer Ambassadors mentorship program** at the University of Houston.
